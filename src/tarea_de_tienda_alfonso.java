@@ -20,6 +20,7 @@ public class tarea_de_tienda_alfonso {
                 System.out.println("4. Salir");
                 System.out.print("Seleccione una opción: ");
                 opcion = scanner.nextInt();
+// Agregado menú interactivo - commit 2
 
                 switch (opcion) {
                     case 1:
