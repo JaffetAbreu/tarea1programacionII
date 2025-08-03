@@ -31,6 +31,7 @@ public class tarea_de_tienda_alfonso {
                         break;
 
                     case 2:
+// Agregada lógica de compra - commit 3
 
                         System.out.println("\nIngrese el número del producto que desea agregar al carrito:");
                         for (int i = 0; i < productos.length; i++) {
